@@ -68,4 +68,4 @@ This project is a simple chatbot that leverages OpenAI's GPT-3.5-turbo model to 
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
-For any questions or support, please open an issue in the repository or contact the project maintainer at your-email@example.com.
+For any questions or support, please open an issue in the repository or contact the project maintainer at dabriwal.m@northeastern.edu
