@@ -11,7 +11,7 @@ This project is a simple chatbot that leverages OpenAI's GPT-3.5-turbo model to 
 - First Aid: Get first aid tips for various conditions.
 
 ## Demo
-[![Health Advice Chatbot Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID)
+[![Health Advice Chatbot Demo](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=t3tky9x2BHo)
 
 ## Installation
 
